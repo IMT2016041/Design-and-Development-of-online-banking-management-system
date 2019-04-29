@@ -1,6 +1,6 @@
-Name :: ALAVALA DEEPIKA
-Roll No :: IMT2015006
-Email ID :: Deepika.Alavala@iiitb.org
+Name :: Sumanth Kuchipudi
+Roll No :: IMT2016041
+Email ID :: lakshmisai.sumanth@iiitb.org
 
 COMPILE::
 1. $gcc server.c -o server
